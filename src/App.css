@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.board {
+	background: #ffff00;
+	height: 50vh;
+	width: 100%;
+	padding: 1rem;
+}
+
+.word {
+	font-weight: bold;
+	border: solid 1px #808080;
+	background: #eeffee;
+	position: absolute;
+	padding: .25rem .5rem;
+	border-radius: .25rem;
+}
